@@ -1,0 +1,5 @@
+<meta>
+    <info author="KSAGlory" name="KSA Cinematic Tools" type="script" version="0.1.0" description="Admin-only cinematic object and NPC placement" />
+    <script src="object_catalog.lua" type="server" />
+    <script src="server.lua" type="server" />
+</meta>

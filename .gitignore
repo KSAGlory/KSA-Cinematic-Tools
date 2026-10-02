@@ -1,0 +1,11 @@
+dist/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+cinematic_export.map
+mtaserver.conf
+acl.xml
+coreconfig.xml
+.env
+*.key
