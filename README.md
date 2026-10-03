@@ -46,7 +46,7 @@ Follow the [manual test checklist](docs/manual-testing.md) before treating this 
 
 ## Third-party attribution
 
-`cinematic_tools/object_catalog.lua` is an unmodified copy of the official MTA Map Editor's [`getObjectNameFromModel.lua`](https://github.com/multitheftauto/mtasa-resources/blob/master/%5Beditor%5D/editor_main/server/getObjectNameFromModel.lua). It is included under the [MTA resources MIT license](third_party/MTASA-RESOURCES-LICENSE), with details in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). The object catalog was **not** authored by KSAGlory or Codex.
+`cinematic_tools/object_catalog.lua` is an unmodified copy of the official MTA Map Editor's [`getObjectNameFromModel.lua`](https://github.com/multitheftauto/mtasa-resources/blob/master/%5Beditor%5D/editor_main/server/getObjectNameFromModel.lua). It is included under the [MTA resources MIT license](third_party/MTASA-RESOURCES-LICENSE), with details in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). The object catalog was **not** authored by KSAGlory.
 
 ## Contributing
 
