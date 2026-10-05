@@ -60,3 +60,4 @@ Focused bug reports and improvements are welcome. Read [CONTRIBUTING.md](CONTRIB
 ## License
 
 The KSA Cinematic Tools code is under the [MIT License](LICENSE). The bundled MTA catalog carries its own MIT copyright notice as described above. GTA:SA, MTA:SA, and any third-party server resources are separate projects and are not bundled.
+Copyright © 2026 KSAGlory. All rights reserved.
