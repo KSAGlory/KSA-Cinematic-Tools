@@ -52,11 +52,6 @@ Follow the [manual test checklist](docs/manual-testing.md) before treating this 
 
 Focused bug reports and improvements are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
-## Author and community
-
-- KSA Cinematic Tools code and maintenance: **KSAGlory**
-- Community: [discord.gg/ksahub](https://discord.gg/ksahub)
-
 ## License
 
 The KSA Cinematic Tools code is under the [MIT License](LICENSE). The bundled MTA catalog carries its own MIT copyright notice as described above. GTA:SA, MTA:SA, and any third-party server resources are separate projects and are not bundled.
